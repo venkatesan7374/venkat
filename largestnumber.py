@@ -8,4 +8,4 @@ elif(b>a and b>c):
 elif(c>a and c>b):
   print(c)
 else:
-print("Invalid")
+  print("Invalid")
