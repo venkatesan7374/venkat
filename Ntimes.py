@@ -1,3 +1,3 @@
 n=int(input(""))
 for a in range(n):
-    print("HELLO")
+    print("Hello")
